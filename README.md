@@ -57,7 +57,7 @@ cpp-calculator/
 │   └── module.cpp           # Реализация функций/классов            
 └── tests/                   # Модульные тесты (используют Google Test)
     ├── CMakeLists.txt       # Конфигурация цели tests-calculator
-    └── tests-module.cpp     # Тесты для module.cpp
+    └── tests_module.cpp     # Тесты для module.cpp
 ```
 
 ## Запуск проектов в VS Code
